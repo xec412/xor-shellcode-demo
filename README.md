@@ -36,8 +36,8 @@ Any responsibility for use lies with the end user. Please act responsibly.
 ## 🛠️ How to Compile
 
 ```bash
-gcc xor_encryptor.c -o xor_encryptor
-./xor_encryptor
+gcc encryptor.c -o <any name you want>
+./encryptor.exe
 
 ## EXAMPLE OUTPUT
 [*] Encrypted data:
